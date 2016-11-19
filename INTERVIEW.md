@@ -1,0 +1,27 @@
+<p>
+	面试题整理：
+</p>
+
+## 对WEB标准以及W3C的理解与认识
+
+标签闭合  标签小写  不乱嵌套  使用外连css和js脚本  结构行为表现的分离  容易维护和改版  
+
+## XHTML 和 html 的区别
+
+html 是一种基本的web网页设计语言 xhtml 是一个基于xml的置标语言
+主要区别：XHTML元素必须正确的嵌套  元素必须闭合 标签必须小写 文档必须有根元素
+
+## 如何触发 Doctype 的严格模式和混杂，模式
+
+用于声明文档使用哪种规范（html/zhtml）一般为 严格 过度 基于框架的html文档
+
+## 前端页面有哪三层
+
+结构层html  表现层css  行为层js
+
+## 一般测试浏览器都有哪些，内核
+
+Ie（Trident）  火狐（Gecko）  谷歌（webkit）  opear（Presto） Chrome（blink）
+
+## 例句ie6的 BUG 解决方法
+
